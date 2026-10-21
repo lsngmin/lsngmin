@@ -4,6 +4,10 @@ Software engineer working across **backend, ML, and frontend**. Currently focuse
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsngminn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsngmin)
+#### Projects
+
+- [TikTokSave](https://tiktok-save.com/?utm_source=github&utm_medium=referral&utm_campaign=profile) — A browser-based downloader for public TikTok videos, with a bulk-link workflow and an optional Chrome extension.
+
 #### 🛠 Stack
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
